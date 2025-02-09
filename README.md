@@ -37,7 +37,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/lisarb-saraiva">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto de Lisarb Saraiva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/155826745?v=4" width="100px;" alt="Foto de Lisarb Saraiva no GitHub"/><br>
         <sub>
           <b>Lisarb Saraiva</b>
         </sub>
